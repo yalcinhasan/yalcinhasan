@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yalcinhasan
 - 👀 I’m interested in ...
-- 🌱  Fırat University|Yazılım Mühendisi - 2/4
+- 🌱  Fırat University|Yazılım Mühendisi - 3/4
 -  💞️ I’m looking to collaborate on ...
 - 📫  hasan.yalcin@outlook.com
 <!---
