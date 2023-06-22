@@ -3,7 +3,7 @@
 - 📫  hasan.yalcin@outlook.com
 - CV: [cv2.pdf](https://github.com/yalcinhasan/yalcinhasan/files/11840383/cv2.pdf
 * Bitirlen Kurslar: 
-- Komple ASP.NET Web Geliştirme Eğitimi|62 Saat|2019
+  - Komple ASP.NET Web Geliştirme Eğitimi|62 Saat|2019
 
 
 <!---
