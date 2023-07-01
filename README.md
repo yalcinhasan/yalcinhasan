@@ -6,7 +6,7 @@
 * Bitirlen Kurslar: 
   - Komple ASP.NET Web Geliştirme Eğitimi|62 Saat|2019 / Bootstrap (Engin Demiroğ)
   - 1 Videoda HTML, CSS, Flexbox, Responsive Tasarım [ Web Geliştirme Eğitimi ] (Yazılım Bilimi)
-  - Uygulama Geliştirerek C# Öğrenin: A'dan Z'ye Eğitim Seti (Murat Yücedağ)
+  - Uygulama Geliştirerek C# Öğrenin: A'dan Z'ye Eğitim Seti(C# Windows Form Uygulamaları) (Murat Yücedağ)
 
 
 
